@@ -1,0 +1,29 @@
+Case sensitive
+Class names in Upper Case
+ex. class Example
+    class AnotherExample
+
+methods should be lower case
+
+CLASS NAME NEEDS TO MATCH FILE NAME
+ex  if program was a java file
+
+public class Notes {
+  public static main(String []){
+
+  }
+}
+
+names used for classes, variables, methods called identifiers
+
+A-Z,a-z, $, _ are valid syntax for identifiers
+
+Variables
+
+- global
+- class variables
+- instance variables
+
+Java Enums
+- create your own mini type
+/
